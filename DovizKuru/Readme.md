@@ -6,4 +6,4 @@ Uygulamayı Çalıştırdığımızda Sitedeki döviz kurlarını çekiyor ve bu
 - Çektiğim verileri düzenlemek için <strong>BeautifulSoup</strong> kütüphanesini kullandım.
 - Düzenlediğim verileri e-posta ile göndermek için <strong>smtplib</strong> kütüphanesini kullandım.
 
-![Ekran Resmi](DovizKuru/screenshot.png)
+![Ekran Resmi](screenshot.png)
