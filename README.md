@@ -8,4 +8,4 @@ Uygulamayı Çalıştırdığımızda Sitedeki döviz kurlarını çekiyor ve bu
 - Düzenlediğim verileri e-posta ile göndermek için <strong>smtplib</strong> kütüphanesini kullandım.
 
 [Kaynak Kodu](https://github.com/oguzhan-developer/PythonProjects/blob/main/DovizKuru/main.py)
-![Ekran Resmi](screenshot.png)
+![Ekran Resmi](DovizKuru/screenshot.png)
